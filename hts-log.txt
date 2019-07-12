@@ -1,0 +1,927 @@
+HTTrack3.49-2 launched on Fri, 12 Jul 2019 21:40:31 at http://shtheme.net/demosd/cruise/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://shtheme.net/demosd/cruise/ -O "/home/audy/websites/cms_Travel" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:44:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 277): shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.6
+21:45:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 7638 got 7643): shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/includes/plugins/wp-hotel-booking-extra/assets/js/site.js?ver=1.9.7.5
+21:45:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 32647 got 32652): shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/js/hotel-booking.js?ver=4.9.8
+21:45:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 40401 got 40406): shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/plugins/owl.carousel.min.js?ver=4.9.8
+21:45:50	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from shtheme.net/demosd/cruise/)
+21:45:51	Warning: 	Note: due to s.w.org remote robots.txt rules, links beginning with these path will be forbidden: /search, /support/search.php, /extend/plugins/search.php, /plugins/search.php, /extend/themes/search.php, /themes/search.php, /support/rss, /archive/ (see in the options to disable this)
+21:45:53	Warning: 	Moved Permanently for s.w.org/
+21:45:53	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+21:45:55	Warning: 	Retry after error 409 (Conflict) at link shtheme.net/demosd/cruise/xmlrpc.php?rsd (from shtheme.net/demosd/cruise/)
+21:46:58	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/js/home3.js?ver=4.9.8
+21:49:33	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/?flight=jet-2 (from shtheme.net/demosd/cruise/)
+21:54:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 697987 got 697992): shtheme.net/demosd/cruise/wp-content/uploads/2016/05/car-slide1.jpg
+21:59:55	Warning: 	Moved Temporarily for shtheme.net/demosd/cruise/?page_id=338
+21:59:55	Warning: 	File has moved from shtheme.net/demosd/cruise/?page_id=338 to http://shtheme.net/demosd/cruise/?post_type=product
+22:00:03	Warning: 	Moved Temporarily for shtheme.net/demosd/cruise/?page_id=340
+22:00:03	Warning: 	File has moved from shtheme.net/demosd/cruise/?page_id=340 to http://shtheme.net/demosd/cruise/?page_id=339
+22:01:38	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?p=71 (from shtheme.net/demosd/cruise/)
+22:01:38	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?p=72 (from shtheme.net/demosd/cruise/)
+22:01:50	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?p=79 (from shtheme.net/demosd/cruise/)
+22:01:50	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?p=78 (from shtheme.net/demosd/cruise/)
+22:01:50	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?p=77 (from shtheme.net/demosd/cruise/)
+22:01:50	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?p=76 (from shtheme.net/demosd/cruise/)
+22:02:00	Warning: 	Retry after error 409 () at link shtheme.net/demosd/cruise/xmlrpc.php?rsd (from shtheme.net/demosd/cruise/)
+22:02:00	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=153
+22:02:00	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=153 to http://shtheme.net/demosd/cruise/?page_id=153
+22:02:00	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=155
+22:02:00	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=155 to http://shtheme.net/demosd/cruise/?page_id=155
+22:02:00	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=156
+22:02:00	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=156 to http://shtheme.net/demosd/cruise/?page_id=156
+22:02:00	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=157
+22:02:00	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=157 to http://shtheme.net/demosd/cruise/?page_id=157
+22:02:00	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D157&format=xml (from shtheme.net/demosd/cruise/?page_id=157)
+22:02:00	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=85
+22:02:00	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=85 to http://shtheme.net/demosd/cruise/?page_id=85
+22:02:00	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D85&format=xml (from shtheme.net/demosd/cruise/?page_id=85)
+22:02:20	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=83
+22:02:20	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=83 to http://shtheme.net/demosd/cruise/?page_id=83
+22:02:20	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/hotel-list.html (from shtheme.net/demosd/cruise/?page_id=83)
+22:02:20	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=380
+22:02:20	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=380 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel&feed=rss2
+22:02:20	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=380
+22:02:20	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=380 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel
+22:02:21	Warning: 	Note: due to 2.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+22:02:21	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=108
+22:02:21	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=108 to http://shtheme.net/demosd/cruise/?page_id=108
+22:02:39	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=110
+22:02:39	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=110 to http://shtheme.net/demosd/cruise/?page_id=110
+22:02:42	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=88
+22:02:42	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=88 to http://shtheme.net/demosd/cruise/?page_id=88
+22:02:42	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/holidays-list.html (from shtheme.net/demosd/cruise/?page_id=88)
+22:02:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=69
+22:02:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=69 to http://shtheme.net/demosd/cruise/?page_id=69
+22:02:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?p=90 (from shtheme.net/demosd/cruise/?page_id=90)
+22:02:48	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D90 (from shtheme.net/demosd/cruise/?page_id=90)
+22:02:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=92
+22:02:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=92 to http://shtheme.net/demosd/cruise/?page_id=92
+22:02:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=94
+22:02:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=94 to http://shtheme.net/demosd/cruise/?page_id=94
+22:02:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=62
+22:02:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=62 to http://shtheme.net/demosd/cruise/?tour=wonderful-france&feed=rss2
+22:02:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=62
+22:02:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=62 to http://shtheme.net/demosd/cruise/?tour=wonderful-france
+22:03:13	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=44
+22:03:13	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=44 to http://shtheme.net/demosd/cruise/?page_id=44
+22:03:38	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=42
+22:03:38	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=42 to http://shtheme.net/demosd/cruise/?page_id=42
+22:03:38	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/car-list.html (from shtheme.net/demosd/cruise/?page_id=42)
+22:03:38	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=40
+22:03:38	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=40 to http://shtheme.net/demosd/cruise/?car=audi-r8-4&feed=rss2
+22:03:38	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=40
+22:03:38	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=40 to http://shtheme.net/demosd/cruise/?car=audi-r8-4
+22:03:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 16600 got 16605): shtheme.net/demosd/cruise/wp-content/uploads/2016/05/car-slide1-300x300.jpg
+22:04:07	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/?attachment_id=448 (from shtheme.net/demosd/cruise/?car=audi-r8-4)
+22:04:07	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=55
+22:04:07	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=55 to http://shtheme.net/demosd/cruise/?page_id=55
+22:04:21	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=47
+22:04:21	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=47 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise&feed=rss2
+22:04:21	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=47
+22:04:21	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=47 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise
+22:04:51	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=22
+22:04:51	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=22 to http://shtheme.net/demosd/cruise/?page_id=22
+22:05:02	Warning: 	Retry after error 409 (Conflict) at link shtheme.net/demosd/cruise/wp-login.php (from shtheme.net/demosd/cruise/?page_id=22)
+22:05:02	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=24
+22:05:02	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=24 to http://shtheme.net/demosd/cruise/?page_id=24
+22:05:02	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?author=1 (from shtheme.net/demosd/cruise/?p=15)
+22:05:02	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D13&format=xml (from shtheme.net/demosd/cruise/?p=13)
+22:05:05	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?p=13&replytocom=2 (from shtheme.net/demosd/cruise/?p=13)
+22:05:05	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?feed=rss2&p=10 (from shtheme.net/demosd/cruise/?p=10)
+22:05:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 7768 got 7773): shtheme.net/demosd/cruise/wp-content/uploads/2018/11/book-03-400x400-300x300.jpg
+22:05:21	Warning: 	file not stored in cache due to bogus state (broken size, expected 12359 got 12364): shtheme.net/demosd/cruise/wp-content/uploads/2018/11/book-02-400x400-300x300.jpg
+22:05:22	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=339
+22:05:22	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=339 to http://shtheme.net/demosd/cruise/?page_id=339
+22:05:23	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=342
+22:05:23	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=342 to http://shtheme.net/demosd/cruise/?product=cruise-1&feed=rss2
+22:05:25	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=342
+22:05:25	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=342 to http://shtheme.net/demosd/cruise/?product=cruise-1
+22:05:26	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=285
+22:05:26	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=285 to http://shtheme.net/demosd/cruise/?page_id=285
+22:05:27	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=266
+22:05:27	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=266 to http://shtheme.net/demosd/cruise/?page_id=266
+22:05:28	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D266 (from shtheme.net/demosd/cruise/?page_id=266)
+22:05:29	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=192
+22:05:29	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=192 to http://shtheme.net/demosd/cruise/?page_id=192
+22:05:30	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D192&format=xml (from shtheme.net/demosd/cruise/?page_id=192)
+22:05:32	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=190
+22:05:32	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=190 to http://shtheme.net/demosd/cruise/?page_id=190
+22:05:33	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D138 (from shtheme.net/demosd/cruise/?p=138)
+22:05:35	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=61
+22:05:35	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=61 to http://shtheme.net/demosd/cruise/?tour=hilly-austria&feed=rss2
+22:05:36	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=61
+22:05:36	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=61 to http://shtheme.net/demosd/cruise/?tour=hilly-austria
+22:05:37	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=60
+22:05:37	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=60 to http://shtheme.net/demosd/cruise/?tour=wonderful-italy&feed=rss2
+22:05:38	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=60
+22:05:38	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=60 to http://shtheme.net/demosd/cruise/?tour=wonderful-italy
+22:05:39	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Dwonderful-italy (from shtheme.net/demosd/cruise/?tour=wonderful-italy)
+22:05:40	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=59
+22:05:40	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=59 to http://shtheme.net/demosd/cruise/?tour=amazing-bangkok&feed=rss2
+22:05:41	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=59
+22:05:41	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=59 to http://shtheme.net/demosd/cruise/?tour=amazing-bangkok
+22:05:43	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Damazing-bangkok (from shtheme.net/demosd/cruise/?tour=amazing-bangkok)
+22:05:45	Error: 	"" (409) after 2 retries at link shtheme.net/demosd/cruise/xmlrpc.php?rsd (from shtheme.net/demosd/cruise/)
+22:05:45	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D85&format=xml (from shtheme.net/demosd/cruise/?page_id=85)
+22:05:46	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=408
+22:05:46	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=408 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-6&feed=rss2
+22:05:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=408
+22:05:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=408 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-6
+22:05:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=406
+22:05:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=406 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-5&feed=rss2
+22:05:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=406
+22:05:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=406 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-5
+22:05:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=389
+22:05:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=389 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-4&feed=rss2
+22:05:51	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=389
+22:05:51	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=389 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-4
+22:05:51	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-4 (from shtheme.net/demosd/cruise/?hb_room=devlok-hotel-4)
+22:05:52	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=386
+22:05:52	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=386 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-3&feed=rss2
+22:05:53	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=386
+22:05:53	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=386 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-3
+22:05:53	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-3 (from shtheme.net/demosd/cruise/?hb_room=devlok-hotel-3)
+22:05:54	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=384
+22:05:54	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=384 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-2&feed=rss2
+22:05:54	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=384
+22:05:54	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=384 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-2
+22:05:54	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?hb_room=devlok-hotel%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=380)
+22:05:54	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=102
+22:05:54	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=102 to http://shtheme.net/demosd/cruise/?flight=spicejet-2&feed=rss2
+22:05:55	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=102
+22:05:55	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=102 to http://shtheme.net/demosd/cruise/?flight=spicejet-2
+22:05:55	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?feed=rss2&p=101 (from shtheme.net/demosd/cruise/?flight=vistara)
+22:05:55	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=101
+22:05:55	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=101 to http://shtheme.net/demosd/cruise/?flight=vistara
+22:05:55	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Dvistara (from shtheme.net/demosd/cruise/?flight=vistara)
+22:05:56	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=100
+22:05:56	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=100 to http://shtheme.net/demosd/cruise/?flight=indigo&feed=rss2
+22:05:57	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=100
+22:05:57	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=100 to http://shtheme.net/demosd/cruise/?flight=indigo
+22:05:57	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Dindigo (from shtheme.net/demosd/cruise/?flight=indigo)
+22:05:59	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=98
+22:05:59	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=98 to http://shtheme.net/demosd/cruise/?flight=spicejet&feed=rss2
+22:06:00	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=98
+22:06:00	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=98 to http://shtheme.net/demosd/cruise/?flight=spicejet
+22:06:00	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Dspicejet (from shtheme.net/demosd/cruise/?flight=spicejet)
+22:06:00	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=99
+22:06:00	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=99 to http://shtheme.net/demosd/cruise/?flight=jet&feed=rss2
+22:06:01	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=99
+22:06:01	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=99 to http://shtheme.net/demosd/cruise/?flight=jet
+22:06:01	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=103
+22:06:01	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=103 to http://shtheme.net/demosd/cruise/?flight=jet-2&feed=rss2
+22:06:02	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=103
+22:06:02	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=103 to http://shtheme.net/demosd/cruise/?flight=jet-2
+22:06:02	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=58
+22:06:02	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=58 to http://shtheme.net/demosd/cruise/?tour=romantic-paris&feed=rss2
+22:06:03	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=58
+22:06:03	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=58 to http://shtheme.net/demosd/cruise/?tour=romantic-paris
+22:06:03	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=57
+22:06:03	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=57 to http://shtheme.net/demosd/cruise/?tour=sky-high-dubai&feed=rss2
+22:06:04	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=57
+22:06:04	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=57 to http://shtheme.net/demosd/cruise/?tour=sky-high-dubai
+22:06:04	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D90 (from shtheme.net/demosd/cruise/?page_id=90)
+22:06:05	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?tour=wonderful-france%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=62)
+22:06:05	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=429
+22:06:05	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=429 to http://shtheme.net/demosd/cruise/?attachment_id=429&feed=rss2
+22:06:06	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=429
+22:06:06	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=429 to http://shtheme.net/demosd/cruise/?attachment_id=429
+22:06:06	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=430
+22:06:06	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=430 to http://shtheme.net/demosd/cruise/?attachment_id=430&feed=rss2
+22:06:07	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=430
+22:06:07	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=430 to http://shtheme.net/demosd/cruise/?attachment_id=430
+22:06:07	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=431
+22:06:07	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=431 to http://shtheme.net/demosd/cruise/?attachment_id=431&feed=rss2
+22:06:08	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=431
+22:06:08	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=431 to http://shtheme.net/demosd/cruise/?attachment_id=431
+22:06:08	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=433
+22:06:08	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=433 to http://shtheme.net/demosd/cruise/?attachment_id=433&feed=rss2
+22:06:10	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=433
+22:06:10	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=433 to http://shtheme.net/demosd/cruise/?attachment_id=433
+22:06:10	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=434
+22:06:10	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=434 to http://shtheme.net/demosd/cruise/?attachment_id=434&feed=rss2
+22:06:11	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=434
+22:06:11	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=434 to http://shtheme.net/demosd/cruise/?attachment_id=434
+22:06:11	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D434 (from shtheme.net/demosd/cruise/?attachment_id=434)
+22:06:13	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=435
+22:06:13	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=435 to http://shtheme.net/demosd/cruise/?attachment_id=435&feed=rss2
+22:06:14	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=435
+22:06:14	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=435 to http://shtheme.net/demosd/cruise/?attachment_id=435
+22:06:14	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D435 (from shtheme.net/demosd/cruise/?attachment_id=435)
+22:06:15	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=38
+22:06:15	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=38 to http://shtheme.net/demosd/cruise/?car=c-class-sedan&feed=rss2
+22:06:16	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=38
+22:06:16	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=38 to http://shtheme.net/demosd/cruise/?car=c-class-sedan
+22:06:16	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=36
+22:06:16	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=36 to http://shtheme.net/demosd/cruise/?car=audi-r8-3&feed=rss2
+22:06:17	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=36
+22:06:17	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=36 to http://shtheme.net/demosd/cruise/?car=audi-r8-3
+22:06:17	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8-3 (from shtheme.net/demosd/cruise/?car=audi-r8-3)
+22:06:18	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=35
+22:06:18	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=35 to http://shtheme.net/demosd/cruise/?car=suzuki-k10&feed=rss2
+22:06:19	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=35
+22:06:19	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=35 to http://shtheme.net/demosd/cruise/?car=suzuki-k10
+22:06:19	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=34
+22:06:19	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=34 to http://shtheme.net/demosd/cruise/?car=audi-r8-2&feed=rss2
+22:06:20	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=34
+22:06:20	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=34 to http://shtheme.net/demosd/cruise/?car=audi-r8-2
+22:06:20	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8-2 (from shtheme.net/demosd/cruise/?car=audi-r8-2)
+22:06:21	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=32
+22:06:21	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=32 to http://shtheme.net/demosd/cruise/?car=bmw-q6&feed=rss2
+22:06:23	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=32
+22:06:23	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=32 to http://shtheme.net/demosd/cruise/?car=bmw-q6
+22:06:23	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=30
+22:06:23	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=30 to http://shtheme.net/demosd/cruise/?car=audi-r8&feed=rss2
+22:06:24	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=30
+22:06:24	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=30 to http://shtheme.net/demosd/cruise/?car=audi-r8
+22:06:24	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8&format=xml (from shtheme.net/demosd/cruise/?car=audi-r8)
+22:06:25	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=28
+22:06:25	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=28 to http://shtheme.net/demosd/cruise/?car=mercedes-sedan&feed=rss2
+22:06:27	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=28
+22:06:27	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=28 to http://shtheme.net/demosd/cruise/?car=mercedes-sedan
+22:06:27	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=26
+22:06:27	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=26 to http://shtheme.net/demosd/cruise/?car=honda-amaze&feed=rss2
+22:06:27	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=26
+22:06:27	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=26 to http://shtheme.net/demosd/cruise/?car=honda-amaze
+22:06:27	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Dhonda-amaze (from shtheme.net/demosd/cruise/?car=honda-amaze)
+22:06:27	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=audi-r8-4%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=40)
+22:06:27	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=440
+22:06:27	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=440 to http://shtheme.net/demosd/cruise/?attachment_id=440&feed=rss2
+22:06:30	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=440
+22:06:30	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=440 to http://shtheme.net/demosd/cruise/?attachment_id=440
+22:06:30	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D440 (from shtheme.net/demosd/cruise/?attachment_id=440)
+22:06:31	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=441
+22:06:31	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=441 to http://shtheme.net/demosd/cruise/?attachment_id=441&feed=rss2
+22:06:32	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=441
+22:06:32	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=441 to http://shtheme.net/demosd/cruise/?attachment_id=441
+22:06:32	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=444
+22:06:32	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=444 to http://shtheme.net/demosd/cruise/?attachment_id=444&feed=rss2
+22:06:32	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=444
+22:06:32	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=444 to http://shtheme.net/demosd/cruise/?attachment_id=444
+22:06:32	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=442
+22:06:32	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=442 to http://shtheme.net/demosd/cruise/?attachment_id=442&feed=rss2
+22:06:34	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=442
+22:06:34	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=442 to http://shtheme.net/demosd/cruise/?attachment_id=442
+22:06:34	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D442 (from shtheme.net/demosd/cruise/?attachment_id=442)
+22:06:36	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=443
+22:06:36	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=443 to http://shtheme.net/demosd/cruise/?attachment_id=443&feed=rss2
+22:06:37	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=443
+22:06:37	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=443 to http://shtheme.net/demosd/cruise/?attachment_id=443
+22:06:37	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=446
+22:06:37	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=446 to http://shtheme.net/demosd/cruise/?attachment_id=446&feed=rss2
+22:06:38	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=446
+22:06:38	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=446 to http://shtheme.net/demosd/cruise/?attachment_id=446
+22:06:38	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D446 (from shtheme.net/demosd/cruise/?attachment_id=446)
+22:06:40	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=447
+22:06:40	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=447 to http://shtheme.net/demosd/cruise/?attachment_id=447&feed=rss2
+22:06:41	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=447
+22:06:41	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=447 to http://shtheme.net/demosd/cruise/?attachment_id=447
+22:06:45	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=51
+22:06:45	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=51 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-5&feed=rss2
+22:06:45	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=51
+22:06:45	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=51 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-5
+22:06:45	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=50
+22:06:45	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=50 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-4&feed=rss2
+22:06:45	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=50
+22:06:45	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=50 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-4
+22:06:45	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise-4 (from shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-4)
+22:06:45	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=49
+22:06:45	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=49 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-3&feed=rss2
+22:06:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=49
+22:06:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=49 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-3
+22:06:48	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise-3 (from shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-3)
+22:06:49	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=48
+22:06:49	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=48 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-2&feed=rss2
+22:06:50	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=48
+22:06:50	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=48 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-2
+22:06:50	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise-2 (from shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-2)
+22:06:51	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=47)
+22:06:51	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=450
+22:06:51	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=450 to http://shtheme.net/demosd/cruise/?attachment_id=450&feed=rss2
+22:06:52	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=450
+22:06:52	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=450 to http://shtheme.net/demosd/cruise/?attachment_id=450
+22:06:52	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=451
+22:06:52	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=451 to http://shtheme.net/demosd/cruise/?attachment_id=451&feed=rss2
+22:06:53	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=451
+22:06:53	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=451 to http://shtheme.net/demosd/cruise/?attachment_id=451
+22:06:53	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D451&format=xml (from shtheme.net/demosd/cruise/?attachment_id=451)
+22:06:53	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=452
+22:06:53	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=452 to http://shtheme.net/demosd/cruise/?attachment_id=452&feed=rss2
+22:06:53	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=452
+22:06:53	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=452 to http://shtheme.net/demosd/cruise/?attachment_id=452
+22:06:53	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=453
+22:06:53	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=453 to http://shtheme.net/demosd/cruise/?attachment_id=453&feed=rss2
+22:06:56	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=453
+22:06:56	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=453 to http://shtheme.net/demosd/cruise/?attachment_id=453
+22:06:56	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=454
+22:06:56	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=454 to http://shtheme.net/demosd/cruise/?attachment_id=454&feed=rss2
+22:06:57	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=454
+22:06:57	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=454 to http://shtheme.net/demosd/cruise/?attachment_id=454
+22:06:57	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=455
+22:06:57	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=455 to http://shtheme.net/demosd/cruise/?attachment_id=455&feed=rss2
+22:06:57	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=455
+22:06:57	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=455 to http://shtheme.net/demosd/cruise/?attachment_id=455
+22:06:58	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D455 (from shtheme.net/demosd/cruise/?attachment_id=455)
+22:06:58	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=350
+22:06:58	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=350 to http://shtheme.net/demosd/cruise/?product=cruise-5&feed=rss2
+22:07:14	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=350
+22:07:14	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=350 to http://shtheme.net/demosd/cruise/?product=cruise-5
+22:07:14	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=344
+22:07:14	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=344 to http://shtheme.net/demosd/cruise/?product=cruise-2&feed=rss2
+22:07:18	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=344
+22:07:18	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=344 to http://shtheme.net/demosd/cruise/?product=cruise-2
+22:07:18	Warning: 	Retry after error 409 () at link shtheme.net/demosd/cruise/wp-login.php (from shtheme.net/demosd/cruise/?page_id=22)
+22:07:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 15839 got 15844): shtheme.net/demosd/cruise/wp-content/uploads/2018/11/guide-03-400x400.jpg
+22:07:55	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-1%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=342)
+22:07:57	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?tour=hilly-austria%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=61)
+22:07:58	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?tour=wonderful-italy%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=60)
+22:07:58	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Dwonderful-italy (from shtheme.net/demosd/cruise/?tour=wonderful-italy)
+22:07:58	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?tour=amazing-bangkok%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=59)
+22:07:58	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D85&format=xml (from shtheme.net/demosd/cruise/?page_id=85)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?hb_room=devlok-hotel-6%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=408)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?hb_room=devlok-hotel-5%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=406)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?hb_room=devlok-hotel-4%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=389)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?hb_room=devlok-hotel-3%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=386)
+22:07:58	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?hb_room=devlok-hotel-2%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=384)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?flight=spicejet-2%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=102)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?flight=indigo%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=100)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?flight=spicejet%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=98)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?flight=jet%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=99)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?flight=jet-2%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=103)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?tour=romantic-paris%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=58)
+22:07:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?tour=sky-high-dubai%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=57)
+22:07:58	Warning: 	file not stored in cache due to bogus state (broken size, expected 12295 got 12300): shtheme.net/demosd/cruise/wp-content/uploads/2018/11/backpack-01-400x400-300x300.jpg
+22:08:01	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?attachment_id=433%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=433)
+22:08:03	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=c-class-sedan%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=38)
+22:08:03	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=audi-r8-3%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=36)
+22:08:03	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?car=suzuki-k10%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=35)
+22:08:03	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=audi-r8-2%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=34)
+22:08:03	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8-2 (from shtheme.net/demosd/cruise/?car=audi-r8-2)
+22:08:03	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=bmw-q6%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=32)
+22:08:03	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=audi-r8%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=30)
+22:08:03	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=mercedes-sedan%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=28)
+22:08:03	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?car=honda-amaze%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=26)
+22:08:04	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?attachment_id=441%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=441)
+22:08:05	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?attachment_id=442%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=442)
+22:08:08	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=448
+22:08:08	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=448 to http://shtheme.net/demosd/cruise/?attachment_id=448&feed=rss2
+22:08:09	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=448
+22:08:09	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=448 to http://shtheme.net/demosd/cruise/?attachment_id=448
+22:08:09	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-5%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=51)
+22:08:09	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-4%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=50)
+22:08:09	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise-4 (from shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-4)
+22:08:09	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-3%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=49)
+22:08:09	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-2%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=48)
+22:08:09	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?attachment_id=450%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=450)
+22:08:14	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-5%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=350)
+22:08:14	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=348
+22:08:14	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=348 to http://shtheme.net/demosd/cruise/?product=cruise-4&feed=rss2
+22:08:15	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=348
+22:08:15	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=348 to http://shtheme.net/demosd/cruise/?product=cruise-4
+22:08:15	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=352
+22:08:15	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=352 to http://shtheme.net/demosd/cruise/?product=cruise-6&feed=rss2
+22:08:16	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=352
+22:08:16	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=352 to http://shtheme.net/demosd/cruise/?product=cruise-6
+22:08:16	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-2%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=344)
+22:08:16	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=346
+22:08:16	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=346 to http://shtheme.net/demosd/cruise/?product=cruise-3&feed=rss2
+22:08:17	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=346
+22:08:17	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=346 to http://shtheme.net/demosd/cruise/?product=cruise-3
+22:08:17	Error: 	"" (409) after 2 retries at link shtheme.net/demosd/cruise/wp-login.php (from shtheme.net/demosd/cruise/?page_id=22)
+22:08:17	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=364
+22:08:17	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=364 to http://shtheme.net/demosd/cruise/?product=cruise-12&feed=rss2
+22:08:18	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=364
+22:08:18	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=364 to http://shtheme.net/demosd/cruise/?product=cruise-12
+22:08:19	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=362
+22:08:19	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=362 to http://shtheme.net/demosd/cruise/?product=cruise-11&feed=rss2
+22:08:20	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=362
+22:08:20	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=362 to http://shtheme.net/demosd/cruise/?product=cruise-11
+22:08:21	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=360
+22:08:21	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=360 to http://shtheme.net/demosd/cruise/?product=cruise-10&feed=rss2
+22:08:22	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=360
+22:08:22	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=360 to http://shtheme.net/demosd/cruise/?product=cruise-10
+22:08:23	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=358
+22:08:23	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=358 to http://shtheme.net/demosd/cruise/?product=cruise-9&feed=rss2
+22:08:24	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/?p=358 (from shtheme.net/demosd/cruise/?product=cruise-9)
+22:08:25	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=356
+22:08:25	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=356 to http://shtheme.net/demosd/cruise/?product=cruise-8&feed=rss2
+22:08:26	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=356
+22:08:26	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=356 to http://shtheme.net/demosd/cruise/?product=cruise-8
+22:08:27	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=354
+22:08:27	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=354 to http://shtheme.net/demosd/cruise/?product=cruise-7&feed=rss2
+22:08:28	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=354
+22:08:28	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=354 to http://shtheme.net/demosd/cruise/?product=cruise-7
+22:08:28	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-7 (from shtheme.net/demosd/cruise/?product=cruise-7)
+22:08:36	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-4%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=348)
+22:08:36	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-6%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=352)
+22:08:36	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-3%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=346)
+22:08:36	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-12%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=364)
+22:08:36	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-11%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=362)
+22:08:36	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-10%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=360)
+22:08:36	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-9%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=358)
+22:08:36	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-8%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=356)
+22:08:36	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-7%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=354)
+22:08:38	Warning: 	HTML file (19095 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2
+22:08:38	Warning: 	HTML file (5184 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=comments-rss2
+22:08:39	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/themes/cruise/img/my-portfolio.ico (from shtheme.net/demosd/cruise/)
+22:08:40	Warning: 	Retry after error 409 (Conflict) at link shtheme.net/demosd/cruise/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.5 (from shtheme.net/demosd/cruise/)
+22:08:41	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.6 (from shtheme.net/demosd/cruise/)
+22:08:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 1676 got 1681): shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/fonts/star.eot
+22:08:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 1304 got 1309): shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/fonts/star.woff
+22:08:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 1512 got 1517): shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+22:08:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=/
+22:08:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F
+22:08:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F&format=xml
+22:09:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 14280 got 14285): shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+22:09:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 14176 got 14181): shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+22:09:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 14100 got 14105): shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+22:09:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D153&format=xml
+22:09:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D155
+22:09:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D155&format=xml
+22:09:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D156
+22:09:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D156&format=xml
+22:09:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 68875 got 68880): shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/fonts/fontawesome-webfont.eot?
+22:10:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D85
+22:10:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 138204 got 138209): shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/fonts/fontawesome-webfont.ttf?v=4.4.0
+22:10:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D83
+22:10:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D83&format=xml
+22:10:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel&format=xml
+22:10:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel
+22:10:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D108
+22:10:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D108&format=xml
+22:10:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D110
+22:10:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D110&format=xml
+22:10:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D69
+22:10:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D69&format=xml
+22:10:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D90&format=xml
+22:10:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D92
+22:10:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D92&format=xml
+22:10:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D94
+22:10:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Dwonderful-france&format=xml
+22:10:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D94&format=xml
+22:10:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D44&format=xml
+22:10:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D44
+22:10:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D42
+22:10:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8-4
+22:10:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D42&format=xml
+22:10:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D55
+22:10:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D55&format=xml
+22:10:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise&format=xml
+22:10:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise
+22:11:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D22
+22:11:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D22&format=xml
+22:11:10	Warning: 	HTML file (804 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=15
+22:11:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D24&format=xml
+22:11:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D24
+22:11:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D15&format=xml
+22:11:13	Warning: 	HTML file (1477 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=13
+22:11:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D10
+22:11:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D10&format=xml
+22:11:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D339&format=xml
+22:11:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-1&format=xml
+22:11:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-1
+22:11:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D266&format=xml
+22:11:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D285&format=xml
+22:11:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D192
+22:11:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D190
+22:11:37	Warning: 	HTML file (773 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=138
+22:11:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D190&format=xml
+22:11:40	Warning: 	HTML file (773 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=137
+22:11:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D138&format=xml
+22:11:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 2082 got 2087): shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/lib/bower/flexslider/fonts/flexslider-icon.eot
+22:11:42	Warning: 	HTML file (773 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=134
+22:11:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D137
+22:11:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D137&format=xml
+22:11:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D134
+22:11:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D134&format=xml
+22:11:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Dhilly-austria
+22:11:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Dhilly-austria&format=xml
+22:11:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Dwonderful-italy&format=xml
+22:11:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Damazing-bangkok&format=xml
+22:11:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D157&format=xml
+22:11:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-6&format=xml
+22:11:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-6
+22:11:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-5
+22:11:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-5&format=xml
+22:11:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-4&format=xml
+22:12:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-2
+22:12:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-3&format=xml
+22:12:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-2&format=xml
+22:13:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Dspicejet-2&format=xml
+22:14:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Dvistara&format=xml
+22:14:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Dindigo&format=xml
+22:15:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Dspicejet&format=xml
+22:15:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Djet
+22:15:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Djet&format=xml
+22:15:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Djet-2
+22:15:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Djet-2&format=xml
+22:15:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Dromantic-paris
+22:15:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Dromantic-paris&format=xml
+22:16:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Dsky-high-dubai
+22:16:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Dsky-high-dubai&format=xml
+22:16:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D429
+22:16:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D429&format=xml
+22:16:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D430&format=xml
+22:16:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D431
+22:16:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D431&format=xml
+22:16:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D433
+22:16:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D433&format=xml
+22:16:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D434&format=xml
+22:16:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D435&format=xml
+22:16:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Dc-class-sedan&format=xml
+22:16:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Dc-class-sedan
+22:16:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8-3&format=xml
+22:16:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Dsuzuki-k10&format=xml
+22:16:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Dbmw-q6
+22:16:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8-2&format=xml
+22:16:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Dmercedes-sedan&format=xml
+22:16:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Dhonda-amaze&format=xml
+22:16:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D440&format=xml
+22:16:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D441&format=xml
+22:16:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D444&format=xml
+22:16:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D442&format=xml
+22:16:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D444
+22:16:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D443&format=xml
+22:16:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D446&format=xml
+22:16:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D447&format=xml
+22:16:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise-5&format=xml
+22:16:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise-4&format=xml
+22:16:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise-3&format=xml
+22:16:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise-2&format=xml
+22:16:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D450
+22:16:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D450&format=xml
+22:16:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D451
+22:16:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D453&format=xml
+22:16:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D454&format=xml
+22:16:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D455&format=xml
+22:16:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-5&format=xml
+22:16:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-2
+22:16:55	Warning: 	HTML file (10074 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&cat=4
+22:16:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-2&format=xml
+22:16:56	Warning: 	HTML file (10076 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&cat=3
+22:16:56	Warning: 	HTML file (9937 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&cat=1
+22:16:59	Warning: 	HTML file (27291 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&feed=rss2
+22:16:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D13&format=xml
+22:16:59	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 659): shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/images/icons/chart.png
+22:17:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D266
+22:17:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D138
+22:17:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D192&format=xml
+22:17:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Ftour%3Damazing-bangkok
+22:17:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fhb_room%3Ddevlok-hotel-3
+22:17:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Dindigo
+22:17:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fflight%3Dspicejet
+22:17:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D90
+22:17:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D434
+22:17:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D435
+22:17:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8-3
+22:17:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8&format=xml
+22:17:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Dhonda-amaze
+22:17:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D440
+22:17:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D446
+22:17:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D442
+22:17:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D448
+22:17:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D448&format=xml
+22:17:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise-3
+22:17:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcruise%3D7-night-royal-cruise-2
+22:17:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D455
+22:17:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-4
+22:17:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-4&format=xml
+22:17:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-6&format=xml
+22:17:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-6
+22:17:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-3
+22:17:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-3&format=xml
+22:17:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-12&format=xml
+22:17:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-11
+22:17:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-11&format=xml
+22:17:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-10
+22:17:40	Warning: 	Retry after error 409 () at link shtheme.net/demosd/cruise/xmlrpc.php?rsd (from shtheme.net/demosd/cruise/)
+22:17:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-10&format=xml
+22:17:41	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-includes/wlwmanifest.xml (from shtheme.net/demosd/cruise/)
+22:17:41	Warning: 	HTML file (164046 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?page_id=153
+22:17:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-9&format=xml
+22:17:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-8&format=xml
+22:17:47	Warning: 	HTML file (109959 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?page_id=108
+22:17:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fproduct%3Dcruise-7&format=xml
+22:17:52	Warning: 	HTML file (114280 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?page_id=88
+22:17:57	Warning: 	HTML file (95876 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=71
+22:18:00	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?p=71 (from shtheme.net/demosd/cruise/)
+22:18:00	Warning: 	HTML file (95876 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=72
+22:18:04	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?p=72 (from shtheme.net/demosd/cruise/)
+22:18:04	Warning: 	HTML file (105971 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=138
+22:18:07	Warning: 	HTML file (106126 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=137
+22:18:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 2082 got 2087): shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/lib/bower/flexslider/fonts/flexslider-icon.eot?
+22:18:11	Warning: 	HTML file (106173 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=134
+22:18:14	Warning: 	HTML file (95890 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=79
+22:18:18	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?p=79 (from shtheme.net/demosd/cruise/)
+22:18:18	Warning: 	HTML file (119712 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?tour=hilly-austria
+22:18:25	Warning: 	Retry after error 409 (Conflict) at link shtheme.net/demosd/cruise/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5 (from shtheme.net/demosd/cruise/)
+22:18:27	Warning: 	Retry after error 409 () at link shtheme.net/demosd/cruise/xmlrpc.php?rsd (from shtheme.net/demosd/cruise/)
+22:18:27	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/06/pattern.jpg (from shtheme.net/demosd/cruise/?page_id=153)
+22:18:27	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=155
+22:18:28	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/?p=155 (from shtheme.net/demosd/cruise/?page_id=155)
+22:18:28	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=155
+22:18:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 1045 got 1050): shtheme.net/demosd/cruise/wp-includes/wlwmanifest.xml
+22:18:30	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/images/holiday-slide4.jpg (from shtheme.net/demosd/cruise/?page_id=155)
+22:18:32	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=157
+22:18:34	Warning: 	file not stored in cache due to bogus state (broken size, expected 201585 got 201590): shtheme.net/demosd/cruise/wp-content/plugins/mega_main_menu/framework/src/fonts/icomoon.eot?
+22:18:34	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=157
+22:18:34	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=157 to http://shtheme.net/demosd/cruise/?page_id=157
+22:18:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D157&format=xml
+22:18:37	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=85
+22:18:41	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=85
+22:18:41	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=85 to http://shtheme.net/demosd/cruise/?page_id=85
+22:18:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D85&format=xml
+22:18:47	Warning: 	HTML file (115040 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?hb_room=devlok-hotel-3
+22:18:53	Warning: 	file not stored in cache due to bogus state (broken size, expected 204980 got 204985): shtheme.net/demosd/cruise/wp-content/uploads/2016/06/pattern.jpg
+22:18:53	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=83
+22:18:55	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=83
+22:18:55	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=83 to http://shtheme.net/demosd/cruise/?page_id=83
+22:18:55	Warning: 	HTML file (2079 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/hotel-list.html
+22:18:56	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/hotel-list.html (from shtheme.net/demosd/cruise/?page_id=83)
+22:18:56	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/includes/libraries/camera/js/gallery.min.js?ver=4.9.8 (from shtheme.net/demosd/cruise/?hb_room=devlok-hotel)
+22:18:57	Warning: 	Note: due to 2.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+22:18:57	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=108
+22:18:59	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=108
+22:18:59	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=108 to http://shtheme.net/demosd/cruise/?page_id=108
+22:18:59	Warning: 	HTML file (98717 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?flight=spicejet-2
+22:19:03	Warning: 	HTML file (98699 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?flight=vistara
+22:19:07	Warning: 	HTML file (98672 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?flight=indigo
+22:19:13	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/assets/images/airline/vistara-2x.png (from shtheme.net/demosd/cruise/?page_id=110)
+22:19:13	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/assets/images/airline/indigo-2x.png (from shtheme.net/demosd/cruise/?page_id=110)
+22:19:13	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/assets/images/airline/spicejet-2x.png (from shtheme.net/demosd/cruise/?page_id=110)
+22:19:13	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/assets/images/airline/jet-2x.png (from shtheme.net/demosd/cruise/?page_id=110)
+22:19:13	Warning: 	HTML file (2081 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/holidays-list.html
+22:19:15	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/holidays-list.html (from shtheme.net/demosd/cruise/?page_id=88)
+22:19:15	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/themes/cruiseassets/images/tripadvisor.png (from shtheme.net/demosd/cruise/?page_id=69)
+22:19:15	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=92
+22:19:16	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=92
+22:19:16	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=92 to http://shtheme.net/demosd/cruise/?page_id=92
+22:19:16	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=94
+22:19:18	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=94
+22:19:18	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=94 to http://shtheme.net/demosd/cruise/?page_id=94
+22:19:18	Warning: 	HTML file (861 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=62
+22:19:20	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=62
+22:19:20	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=62 to http://shtheme.net/demosd/cruise/?tour=wonderful-france&feed=rss2
+22:19:20	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/holiday-slide3.jpg (from shtheme.net/demosd/cruise/?tour=wonderful-france)
+22:19:20	Warning: 	HTML file (104268 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?attachment_id=429
+22:19:24	Warning: 	HTML file (105257 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?car=c-class-sedan
+22:19:28	Warning: 	HTML file (105210 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?car=audi-r8-3
+22:19:34	Warning: 	HTML file (105225 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?car=suzuki-k10
+22:19:39	Warning: 	HTML file (105196 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?car=audi-r8-2
+22:19:44	Warning: 	HTML file (105164 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?car=bmw-q6
+22:19:49	Warning: 	HTML file (105197 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?car=audi-r8
+22:19:54	Error: 	"" (404) at link shtheme.net/demosd/cruise/car-list.html (from shtheme.net/demosd/cruise/?page_id=42)
+22:19:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8-4&format=xml
+22:19:56	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/car-gallery1.jpg (from shtheme.net/demosd/cruise/?car=audi-r8-4)
+22:19:56	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/car-slide2-1.jpg (from shtheme.net/demosd/cruise/?car=audi-r8-4)
+22:19:56	Warning: 	HTML file (112936 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-5
+22:20:00	Warning: 	HTML file (113062 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-4
+22:20:05	Warning: 	HTML file (113028 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-3
+22:20:09	Warning: 	HTML file (104259 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?attachment_id=450
+22:20:13	Warning: 	HTML file (103175 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?product=cruise-5
+22:20:17	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=24
+22:20:47	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=24
+22:20:47	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=24 to http://shtheme.net/demosd/cruise/?page_id=24
+22:20:47	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/bfi_thumb/tour7-2-37jhwgy4jo43sg00du79xc.jpg (from shtheme.net/demosd/cruise/?page_id=24)
+22:20:47	Warning: 	HTML file (13587 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?author=1
+22:20:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D13
+22:20:57	Warning: 	HTML file (15671 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=13&replytocom=2
+22:21:03	Warning: 	HTML file (113854 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product
+22:21:07	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=2.6.6 (from shtheme.net/demosd/cruise/?page_id=339)
+22:21:12	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2018/11/backpack-01-400x400.jpg (from shtheme.net/demosd/cruise/?product=cruise-1)
+22:21:12	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=285
+22:21:15	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=285
+22:21:15	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=285 to http://shtheme.net/demosd/cruise/?page_id=285
+22:21:15	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=266
+22:21:19	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=266
+22:21:19	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=266 to http://shtheme.net/demosd/cruise/?page_id=266
+22:21:19	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=192
+22:21:21	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=192
+22:21:21	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=192 to http://shtheme.net/demosd/cruise/?page_id=192
+22:21:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D192&format=xml
+22:21:25	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?p=190
+22:21:27	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=190
+22:21:27	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=190 to http://shtheme.net/demosd/cruise/?page_id=190
+22:21:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fp%3D138
+22:21:31	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=61
+22:21:33	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=61
+22:21:33	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=61 to http://shtheme.net/demosd/cruise/?tour=hilly-austria&feed=rss2
+22:21:33	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=60
+22:21:37	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=60
+22:21:37	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=60 to http://shtheme.net/demosd/cruise/?tour=wonderful-italy&feed=rss2
+22:21:37	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=59
+22:21:39	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=59
+22:21:39	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=59 to http://shtheme.net/demosd/cruise/?tour=amazing-bangkok&feed=rss2
+22:21:39	Error: 	"" (409) after 2 retries at link shtheme.net/demosd/cruise/xmlrpc.php?rsd (from shtheme.net/demosd/cruise/)
+22:21:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D85&format=xml
+22:21:45	Warning: 	HTML file (865 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=406
+22:21:47	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=406
+22:21:47	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=406 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-5&feed=rss2
+22:21:47	Warning: 	HTML file (865 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=389
+22:21:49	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=389
+22:21:49	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=389 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-4&feed=rss2
+22:21:49	Warning: 	HTML file (865 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=386
+22:21:51	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=386
+22:21:51	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=386 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-3&feed=rss2
+22:21:51	Warning: 	HTML file (865 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=384
+22:21:53	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=384
+22:21:53	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=384 to http://shtheme.net/demosd/cruise/?hb_room=devlok-hotel-2&feed=rss2
+22:21:53	Warning: 	HTML file (96036 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?hb_room=devlok-hotel%26feed=rss2
+22:21:57	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?hb_room=devlok-hotel%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=380)
+22:21:57	Warning: 	HTML file (488 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=101
+22:21:59	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=101
+22:21:59	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=101 to http://shtheme.net/demosd/cruise/?flight=vistara&feed=rss2
+22:21:59	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=100
+22:22:01	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=100
+22:22:01	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=100 to http://shtheme.net/demosd/cruise/?flight=indigo&feed=rss2
+22:22:01	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=98
+22:22:03	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=98
+22:22:03	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=98 to http://shtheme.net/demosd/cruise/?flight=spicejet&feed=rss2
+22:22:03	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=99
+22:22:05	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=99
+22:22:05	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=99 to http://shtheme.net/demosd/cruise/?flight=jet&feed=rss2
+22:22:05	Warning: 	HTML file (845 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=103
+22:22:06	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=103
+22:22:06	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=103 to http://shtheme.net/demosd/cruise/?flight=jet-2&feed=rss2
+22:22:06	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=58
+22:22:08	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=58
+22:22:08	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=58 to http://shtheme.net/demosd/cruise/?tour=romantic-paris&feed=rss2
+22:22:08	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=57
+22:22:10	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=57
+22:22:10	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=57 to http://shtheme.net/demosd/cruise/?tour=sky-high-dubai&feed=rss2
+22:22:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D90
+22:22:12	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/slide15-300x300.jpg (from shtheme.net/demosd/cruise/?attachment_id=429)
+22:22:12	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/holiday-slide3-300x300.jpg (from shtheme.net/demosd/cruise/?attachment_id=430)
+22:22:12	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/holiday-slide4-300x300.jpg (from shtheme.net/demosd/cruise/?attachment_id=431)
+22:22:12	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=434
+22:22:15	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=434
+22:22:15	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=434 to http://shtheme.net/demosd/cruise/?attachment_id=434&feed=rss2
+22:22:15	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=435
+22:22:16	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=435
+22:22:16	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=435 to http://shtheme.net/demosd/cruise/?attachment_id=435&feed=rss2
+22:22:16	Warning: 	HTML file (853 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=38
+22:22:18	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=38
+22:22:18	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=38 to http://shtheme.net/demosd/cruise/?car=c-class-sedan&feed=rss2
+22:22:18	Warning: 	HTML file (845 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=36
+22:22:20	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=36
+22:22:20	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=36 to http://shtheme.net/demosd/cruise/?car=audi-r8-3&feed=rss2
+22:22:20	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=35
+22:22:22	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=35
+22:22:22	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=35 to http://shtheme.net/demosd/cruise/?car=suzuki-k10&feed=rss2
+22:22:22	Warning: 	HTML file (845 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=34
+22:22:24	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=34
+22:22:24	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=34 to http://shtheme.net/demosd/cruise/?car=audi-r8-2&feed=rss2
+22:22:24	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=32
+22:22:26	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=32
+22:22:26	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=32 to http://shtheme.net/demosd/cruise/?car=bmw-q6&feed=rss2
+22:22:26	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=30
+22:22:27	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=30
+22:22:27	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=30 to http://shtheme.net/demosd/cruise/?car=audi-r8&feed=rss2
+22:22:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fcar%3Daudi-r8&format=xml
+22:22:29	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=26
+22:22:30	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=26
+22:22:30	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=26 to http://shtheme.net/demosd/cruise/?car=honda-amaze&feed=rss2
+22:22:30	Warning: 	HTML file (96004 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?car=audi-r8-4%26feed=rss2
+22:22:35	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=audi-r8-4%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=40)
+22:22:35	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=441
+22:22:37	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=441
+22:22:37	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=441 to http://shtheme.net/demosd/cruise/?attachment_id=441&feed=rss2
+22:22:37	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=444
+22:22:38	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=444
+22:22:38	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=444 to http://shtheme.net/demosd/cruise/?attachment_id=444&feed=rss2
+22:22:38	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/car-slide2-300x300.jpg (from shtheme.net/demosd/cruise/?attachment_id=444)
+22:22:38	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/car-gallery1-300x300.jpg (from shtheme.net/demosd/cruise/?attachment_id=442)
+22:22:38	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=446
+22:22:42	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=446
+22:22:42	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=446 to http://shtheme.net/demosd/cruise/?attachment_id=446&feed=rss2
+22:22:42	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=447
+22:22:43	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=447
+22:22:43	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=447 to http://shtheme.net/demosd/cruise/?attachment_id=447&feed=rss2
+22:22:43	Warning: 	HTML file (104317 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?attachment_id=448
+22:22:48	Warning: 	HTML file (877 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=50
+22:22:50	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=50
+22:22:50	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=50 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-4&feed=rss2
+22:22:50	Warning: 	HTML file (877 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=49
+22:22:51	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=49
+22:22:51	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=49 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-3&feed=rss2
+22:22:51	Warning: 	HTML file (877 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=48
+22:22:53	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=48
+22:22:53	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=48 to http://shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-2&feed=rss2
+22:22:53	Warning: 	HTML file (96060 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise%26feed=rss2
+22:22:58	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=47)
+22:22:58	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=451
+22:23:00	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=451
+22:23:00	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=451 to http://shtheme.net/demosd/cruise/?attachment_id=451&feed=rss2
+22:23:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fattachment_id%3D451&format=xml
+22:23:02	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=452
+22:23:03	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=452
+22:23:03	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=452 to http://shtheme.net/demosd/cruise/?attachment_id=452&feed=rss2
+22:23:03	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?feed=rss2&p=453
+22:23:06	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?feed=rss2&p=453
+22:23:06	Warning: 	File has moved from shtheme.net/demosd/cruise/?feed=rss2&p=453 to http://shtheme.net/demosd/cruise/?attachment_id=453&feed=rss2
+22:23:06	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/cruise-1-300x300.jpg (from shtheme.net/demosd/cruise/?attachment_id=453)
+22:23:06	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/cruise-slide-1-300x300.jpg (from shtheme.net/demosd/cruise/?attachment_id=454)
+22:23:06	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/cruise-slide1-1-300x300.jpg (from shtheme.net/demosd/cruise/?attachment_id=455)
+22:23:06	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2018/11/book-02-400x400.jpg (from shtheme.net/demosd/cruise/?product=cruise-5)
+22:23:09	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2018/11/backpack-02-600x600.jpg (from shtheme.net/demosd/cruise/?product=cruise-2)
+22:23:10	Warning: 	Retry after error 409 () at link shtheme.net/demosd/cruise/wp-login.php (from shtheme.net/demosd/cruise/?page_id=22)
+22:23:10	Warning: 	HTML file (100821 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?product=cruise-12
+22:23:13	Warning: 	HTML file (113980 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&add-to-cart=364
+22:23:15	Warning: 	HTML file (113976 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&add-to-cart=362
+22:23:20	Warning: 	HTML file (113970 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&add-to-cart=360
+22:23:25	Warning: 	HTML file (113996 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&add-to-cart=358
+22:23:30	Warning: 	HTML file (113990 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&add-to-cart=356
+22:23:35	Warning: 	HTML file (113986 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&add-to-cart=352
+22:23:40	Warning: 	HTML file (113992 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&add-to-cart=350
+22:23:44	Warning: 	HTML file (113984 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&add-to-cart=348
+22:23:49	Warning: 	HTML file (113978 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&add-to-cart=346
+22:23:54	Warning: 	HTML file (96022 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?tour=hilly-austria%26feed=rss2
+22:23:59	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?tour=hilly-austria%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=61)
+22:24:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): shtheme.net/demosd/cruise/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http%3A%2F%2Fshtheme.net%2Fdemosd%2Fcruise%2F%3Fpage_id%3D85&format=xml
+22:24:01	Warning: 	HTML file (96046 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?hb_room=devlok-hotel-3%26feed=rss2
+22:24:05	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?hb_room=devlok-hotel-3%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=386)
+22:24:05	Warning: 	HTML file (12962 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?hb_room=devlok-hotel-2%26feed=rss2
+22:24:10	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?hb_room=devlok-hotel-2%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=384)
+22:24:10	Warning: 	HTML file (96012 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?flight=indigo%26feed=rss2
+22:24:15	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?flight=indigo%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=100)
+22:24:15	Warning: 	HTML file (96024 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?flight=spicejet%26feed=rss2
+22:24:20	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?flight=spicejet%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=98)
+22:24:20	Warning: 	HTML file (95964 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?flight=jet%26feed=rss2
+22:24:24	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?flight=jet%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=99)
+22:24:24	Warning: 	HTML file (104384 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?attachment_id=429%26feed=rss2
+22:24:29	Warning: 	HTML file (104453 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?attachment_id=435%26feed=rss2
+22:24:34	Warning: 	HTML file (96018 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?car=c-class-sedan%26feed=rss2
+22:24:38	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=c-class-sedan%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=38)
+22:24:38	Warning: 	HTML file (12946 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?car=suzuki-k10%26feed=rss2
+22:24:43	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=suzuki-k10%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=35)
+22:24:43	Warning: 	HTML file (96012 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?car=mercedes-sedan%26feed=rss2
+22:24:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?car=mercedes-sedan%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=28)
+22:24:48	Warning: 	HTML file (104388 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?attachment_id=440%26feed=rss2
+22:24:52	Warning: 	HTML file (14759 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?attachment_id=441%26feed=rss2
+22:24:57	Warning: 	HTML file (104425 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?attachment_id=443%26feed=rss2
+22:25:01	Warning: 	HTML file (104417 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?attachment_id=447%26feed=rss2
+22:25:05	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2016/05/car-slide2-1-300x300.jpg (from shtheme.net/demosd/cruise/?attachment_id=448)
+22:25:05	Warning: 	HTML file (96096 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-2%26feed=rss2
+22:25:09	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?cruise=7-night-royal-cruise-2%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=48)
+22:25:09	Warning: 	HTML file (14731 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?attachment_id=450%26feed=rss2
+22:25:11	Warning: 	HTML file (96028 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?product=cruise-5%26feed=rss2
+22:25:16	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?product=cruise-5%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=350)
+22:25:16	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/uploads/2018/11/book-01-600x600.jpg (from shtheme.net/demosd/cruise/?product=cruise-4)
+22:25:16	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2018/11/book-03-400x400.jpg (from shtheme.net/demosd/cruise/?product=cruise-6)
+22:25:16	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/uploads/2018/11/backpack-03-600x600.jpg (from shtheme.net/demosd/cruise/?product=cruise-3)
+22:25:16	Warning: 	HTML file (97740 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&paged=2&add-to-cart=364
+22:25:21	Warning: 	HTML file (97744 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&paged=2&add-to-cart=362
+22:25:26	Warning: 	HTML file (97746 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&paged=2&add-to-cart=360
+22:25:30	Warning: 	HTML file (97744 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&paged=2&add-to-cart=358
+22:25:34	Warning: 	HTML file (97740 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&paged=2&add-to-cart=356
+22:25:38	Warning: 	HTML file (97730 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&paged=2&add-to-cart=354
+22:25:42	Warning: 	HTML file (97740 bytes) retransferred due to lack of cache: shtheme.net/demosd/cruise/?post_type=product&paged=2&add-to-cart=342
+22:25:48	Warning: 	Retry after error 409 (Conflict) at link shtheme.net/demosd/cruise/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.5 (from shtheme.net/demosd/cruise/)
+22:25:48	Warning: 	Retry after error -4 (No data (connection closed)) at link shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.6 (from shtheme.net/demosd/cruise/)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot (from shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.6)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg (from shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.6)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg (from shtheme.net/demosd/cruise/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.6)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/images/ui-bg_flat_75_ffffff_40x100.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/images/ui-bg_glass_75_e6e6e6_1x400.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/images/ui-bg_glass_75_dadada_1x400.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/images/ui-bg_glass_65_ffffff_1x400.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/images/ui-bg_glass_55_fbf9ee_1x400.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/images/ui-bg_glass_95_fef1ec_1x400.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/images/ui-bg_flat_0_aaaaaa_40x100.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/fonts/hotel-booking-star.eot?f5rno8 (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/images/patterns/overlay6.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/images/patterns/overlay7.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/grabbing.png (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/AjaxLoader.gif (from shtheme.net/demosd/cruise/wp-content/plugins/wp-hotel-booking/assets/css/libraries.css?ver=4.9.8)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/css/owl.video.play.png (from shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/css/owl.carousel.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/fonts/glyphicons-halflings-regular.eot (from shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/css/bootstrap.min.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/fonts/glyphicons-halflings-regular.eot? (from shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/css/bootstrap.min.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/fonts/glyphicons-halflings-regular.woff2 (from shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/css/bootstrap.min.css?ver=4.9.8)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/fonts/glyphicons-halflings-regular.woff (from shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/css/bootstrap.min.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/fonts/glyphicons-halflings-regular.ttf (from shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/css/bootstrap.min.css?ver=4.9.8)
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/fonts/glyphicons-halflings-regular.svg (from shtheme.net/demosd/cruise/wp-content/themes/cruise/assets/css/bootstrap.min.css?ver=4.9.8)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/lib/bower/flexslider/fonts/flexslider-icon.woff (from shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/lib/bower/flexslider/flexslider.min.css?ver=4.11.2)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png (from shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png (from shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/images/icons/camera.png (from shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2)
+22:25:48	Error: 	"Unknown (not HTTP/xx) response structure" (-1) at link shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/images/icons/heart.png (from shtheme.net/demosd/cruise/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2)
+22:25:48	Warning: 	Retry after error 409 () at link shtheme.net/demosd/cruise/xmlrpc.php?rsd (from shtheme.net/demosd/cruise/)
+22:25:48	Warning: 	Retry after error 409 (Conflict) at link shtheme.net/demosd/cruise/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5 (from shtheme.net/demosd/cruise/)
+22:25:48	Error: 	"" (409) after 2 retries at link shtheme.net/demosd/cruise/xmlrpc.php?rsd (from shtheme.net/demosd/cruise/)
+22:25:48	Warning: 	Moved Permanently for shtheme.net/demosd/cruise/?p=155
+22:25:48	Warning: 	File has moved from shtheme.net/demosd/cruise/?p=155 to http://shtheme.net/demosd/cruise/?page_id=155
+22:25:48	Error: 	"Not Found" (404) at link shtheme.net/demosd/cruise/?flight=vistara%26feed=rss2 (from shtheme.net/demosd/cruise/?feed=rss2&p=101)
+22:25:48	Error: 	"" (409) after 2 retries at link shtheme.net/demosd/cruise/wp-login.php (from shtheme.net/demosd/cruise/?page_id=22)
+22:25:49	Error: 	"Conflict" (409) after 2 retries at link shtheme.net/demosd/cruise/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.5 (from shtheme.net/demosd/cruise/)
+22:25:49	Error: 	"" (409) after 2 retries at link shtheme.net/demosd/cruise/xmlrpc.php?rsd (from shtheme.net/demosd/cruise/)
+22:25:49	Error: 	"Conflict" (409) after 2 retries at link shtheme.net/demosd/cruise/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5 (from shtheme.net/demosd/cruise/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 minutes 18 seconds : 1041 links scanned, 920 files written (58009094 bytes overall) [46515644 bytes received at 17113 bytes/sec], 23448015 bytes transferred using HTTP compression in 242 files, ratio 12%, 2.6 requests per connection
+(133 errors, 783 warnings, 0 messages)
